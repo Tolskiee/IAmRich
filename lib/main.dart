@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-//main body for entire code edit codes here.
+//main body for entire code edit code here.
 void main() {
   runApp(
     MaterialApp(
